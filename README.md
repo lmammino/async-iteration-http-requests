@@ -67,6 +67,13 @@ Which delegates `handleRequest` to deal with the request but it does not await i
 
 This repository provides a set of examples and a benchmark script to validate what's stated above.
 
+More details are available on Twitter:
+
+  - [Original Tweet](https://twitter.com/loige/status/1388879048617590790)
+  - [Second tweet with more details](https://twitter.com/loige/status/1388888755495387137)
+
+Make sure to check out all the awesome comments!
+
 ## Install
 
 You will need Node.js 16+.
