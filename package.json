@@ -4,14 +4,18 @@
   "description": "",
   "main": "http-server.js",
   "type": "module",
+    "engines": {
+    "node": ">=16.0.0"
+  },
+  "engineStrict": true,
   "scripts": {
     "test": "eslint .",
     "benchmark": "./benchmark.sh",
     "prepare": "husky install"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Luciano Mammino",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.14.0",
     "@babel/eslint-parser": "^7.13.14",
